@@ -1,0 +1,5 @@
+C:\Faculdade\Simulador\Simulador\Simulador\obj\Debug\Simulador.Form1.resources
+C:\Faculdade\Simulador\Simulador\Simulador\obj\Debug\Simulador.Properties.Resources.resources
+C:\Faculdade\Simulador\Simulador\Simulador\obj\Debug\Simulador.csproj.GenerateResource.cache
+C:\Faculdade\Simulador\Simulador\Simulador\obj\Debug\Simulador.csproj.CoreCompileInputs.cache
+C:\Faculdade\Simulador\Simulador\Simulador\obj\Debug\Simulador.csprojAssemblyReference.cache
